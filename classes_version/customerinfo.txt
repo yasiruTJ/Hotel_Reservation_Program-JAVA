@@ -1,0 +1,32 @@
+Room Number 0 Is Occupied By e 
+No.of Guests: 0
+Credit Card Number Of Paying Guest: 
+
+Room Number 1 Is Occupied By e 
+No.of Guests: 0
+Credit Card Number Of Paying Guest: 
+
+Room Number 2 Is Occupied By e 
+No.of Guests: 0
+Credit Card Number Of Paying Guest: 
+
+Room Number 3 Is Occupied By e 
+No.of Guests: 0
+Credit Card Number Of Paying Guest: 
+
+Room Number 4 Is Occupied By e 
+No.of Guests: 0
+Credit Card Number Of Paying Guest: 
+
+Room Number 5 Is Occupied By e 
+No.of Guests: 0
+Credit Card Number Of Paying Guest: 
+
+Room Number 6 Is Occupied By e 
+No.of Guests: 0
+Credit Card Number Of Paying Guest: 
+
+Room Number 7 Is Occupied By e 
+No.of Guests: 0
+Credit Card Number Of Paying Guest: 
+
